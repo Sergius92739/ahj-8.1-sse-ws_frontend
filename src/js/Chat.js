@@ -12,7 +12,7 @@ export default class Chat {
     this.chatInput = this.chatForm.elements.message;
     this.user = null;
     this.ws = null;
-    this.baseURL = 'ws://localhost:7070/ws';
+    this.baseURL = 'wss://ahj-8-1-sse-ws-sergius.herokuapp.com/';
     this.listUsers = document.querySelector('.users__list');
     this.listMessages = document.querySelector('.messages__list');
 
