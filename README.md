@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/p8jenvx48i5w7129/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-8-1-sse-ws-frontend/branch/master)
 
 #### Deployment:  <a href="">Github Pages</a>
 
